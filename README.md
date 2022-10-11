@@ -10,5 +10,5 @@ Exploratory data analysis was used to obtain the experimental probability of the
 
 ## Results
 1. Please read the "3 earthquakes-problem statement and solution.pdf" file.
-2. Calculations are in PROB-3-SISMOS.ipynb
+2. Calculations are in EXPER-PROB-3-EARTHQUAKES.ipynb
 
